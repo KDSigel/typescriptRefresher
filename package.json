@@ -1,0 +1,22 @@
+{
+  "name": "typescriptrefresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDSigel/typescriptRefresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDSigel/typescriptRefresher/issues"
+  },
+  "homepage": "https://github.com/KDSigel/typescriptRefresher#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
